@@ -7,6 +7,6 @@
 - ⚡ Fun fact: ...
 
 <!---
-nathankhasambaigithub2024sept/nathankhasambaigithub2024sept is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Dignity is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
